@@ -1,5 +1,0 @@
-# Tell Netlify to serve index.html for all routes (SPA)
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
